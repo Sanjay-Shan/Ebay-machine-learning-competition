@@ -29,4 +29,27 @@ Two metrics have been defined here to measure the accuarcy of the model
 1) Top 1 accuracy - 70.53% (exactly matching the actual delivery date with the predicted delivery date)
 2) Top 2 accuracy - 99.97% (If there exits a day difference between actual delivery date and the predicted delivery date, then it is considered as TP in the calculation of the accuracy)
 
+# References
+
+1) https://machinelearningmastery.com/feature-importance-and-feature-selection-with-xgboost-in-python/ 
+2) https://towardsdatascience.com/why-you-should-learn-catboost-now-390fb3895f76 
+
+3) https://machinelearningmastery.com/gentle-introduction-xgboost-applied-machine-learning/  
+
+4) Jihed Khiari ID, Cristina Olaverri  Boosting Algorithms for Delivery Time Prediction in Transportation Logistics 
+
+5) http://freerangestats.info/blog/2016/12/10/extrapolation 
+
+6) https://thenewstack.io/how-uber-eats-uses-machine-learning-to-estimate-delivery-times/ 
+
+7) Customer Delivery Time(CDT) Prediction using Machine Learning | by Nitish Gopu | Walmart Global Tech Blog | Medium 
+
+8) https://www.researchgate.net/publication/344871967_Predicting_Package_Delivery_Time_For_Motorcycles_In_Nairobi 
+
+9) https://pypi.org/project/pgeocode/ 
+
+
+
+ 
+
 
