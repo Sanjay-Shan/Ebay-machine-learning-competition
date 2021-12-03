@@ -1,2 +1,2 @@
-# Machine_Learning
-Grad Projects
+# Ebay's Machine Learning Competition
+
