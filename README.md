@@ -26,7 +26,7 @@ Here each and every model predicts the duration of delivery ,and once the durati
 In our case , we are getting Linear Regression and Adaboost with Linear Regression as the best model for the delivery date prediction system.
 
 Two metrics have been defined here to measure the accuarcy of the model
-Top 1 accuracy - 70.53% (exactly matching the actual delivery date with the predicted delivery date)
-Top 2 accuracy - 99.97% (If there exits a day difference between actual delivery date and the predicted delivery date, then it is considered as TP in the calculation of the accuracy)
+1) Top 1 accuracy - 70.53% (exactly matching the actual delivery date with the predicted delivery date)
+2) Top 2 accuracy - 99.97% (If there exits a day difference between actual delivery date and the predicted delivery date, then it is considered as TP in the calculation of the accuracy)
 
 
